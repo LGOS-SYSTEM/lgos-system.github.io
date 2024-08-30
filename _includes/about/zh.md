@@ -8,4 +8,4 @@ Hey，我是SYSTEM-NTDEV-PRO（a.k.a. SYSTEM-NTDEV-PRO, _@SYSTEM-NTDEV-PRO_）�
 
 
 ## 快来添加友链吧！
-##### 2920160872@qq.com
+##### [2920160872@qq.com](mailto:2920160872@qq.com)
