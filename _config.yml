@@ -86,5 +86,7 @@ page-mathjax: false
 # Friends
 friends:
   [
+    { title: "陈思全的小站", href: "https://siquan001.github.io" },
     { title: "SYSTEM-NTDEV-PRO Blog (本站)", href: "https://system-ntdev-pro.github.io" },
+    { title: "快来添加友情链接吧！", href: "mailto:2920160872@qq.com" },
   ]
