@@ -1,11 +1,11 @@
 # Site settings
-title: SYSTEM-NTDEV-PRO Blog
-SEOTitle: SYSTEM-NTDEV-PRO的博客 | SYSTEM-NTDEV-PRO Blog
+title: LGOS-SYSTEM Blog
+SEOTitle: LGOS-SYSTEM 博客 | LGOS-SYSTEM Blog
 header-img: img/home-bg.jpg
-email: jincheng-xiao2024@outlook.com
-description: "这里是 @SYSTEM-NTDEV-PRO 的个人博客，与你一起发现更大的世界 | 要做一个有意思的程序员"
-keyword: "SYSTEM-NTDEV-PRO, SYSTEM-NTDEV-PRO主播, Pro主播, 远超NTDEV, 爱写代码, 爱作死, SYSTEM-NTDEV-PRO的博客, SYSTEM-NTDEV-PRO Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://system-ntdev-pro.github.io" # your host, for absolute URL
+email: system-ntdev-pro@outlook.com
+description: "这里是 @LGOS-SYSTEM 的博客，与你一起发现更大的世界 | 要做一个免费/强大的RAMOS！"
+keyword: "LGOS-SYSTEM, LGOS-RAMOS, LGOS-SYSTEM的博客, LGOS-SYSTEM Blog, PE"
+url: "https://LGOS-SYSTEM.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: SYSTEM-NTDEV-PRO
+github_username: LGOS-SYSTEM
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -65,12 +65,12 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: system-ntdev-pro.github.io
+ga_domain: LGOS-SYSTEM.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有意思的程序员 <br> LGOS-RAMOS @ SYSTEM"
-sidebar-avatar: https://github.com/SYSTEM-NTDEV-PRO.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "要做一个免费/强大的RAMOS！ <br> LGOS-RAMOS @ SYSTEM"
+sidebar-avatar: https://github.com/LGOS-SYSTEM.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -86,7 +86,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "陈思全的小站", href: "https://siquan001.github.io" },
-    { title: "SYSTEM-NTDEV-PRO Blog (本站)", href: "https://system-ntdev-pro.github.io" },
-    { title: "快来添加友情链接吧！", href: "mailto:2920160872@qq.com" },
+    { title: "LGOS-SYSTEM Blog (本站)", href: "https://LGOS-SYSTEM.github.io" },
   ]
