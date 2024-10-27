@@ -1,7 +1,9 @@
-Hey, I'm SYSTEM-NTDEV-PRO (a.k.a. SYSTEM-NTDEV-PRO, @SYSTEM-NTDEV-PRO), a 6th grade student with a slight understanding of computer science DE.
+Hey, this is LGOS-SYSTEM's LGOS-RAMOS blog! Welcome!
 
-Currently on the <del>Facebook</del> LGOS-RAMOS <del>Netflix</del> development team. Currently the scope of physical activity is mainly in China, also want to be a <del>ape</del>programmer. Daily frequented in [Bilibili](https://space.bilibili.com/1066128216), [Github](https://github.com/SYSTEM-NTDEV-PRO) and so on.
+Currently on the <del>Facebook</del> LGOS-RAMOS <del>Netflix</del> development team. Currently physically active mostly in China and also trying to be a programmer too.
 
-# My buddies
-## Come to add friend links!
-##### [2920160872@qq.com](mailto:2920160872@qq.com)
+LGOS-SYSTEM is resolute that it will be a non-paying, powerful, and maintenance-supported WinPE!
+
+### Community
+
+Open QQ, search 115405189 into the group! (Group application: 1066128216)
