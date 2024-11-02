@@ -20,6 +20,10 @@ LGOS-RAMOS 维护版的第一个公开测试版，版本号为0.7.5
 
 3.将DiskGenius封装为单文件版，并激活。功能齐全；
 
+### 屏幕截图
+
+<img src="https://lgos-system.github.io/img/LGOS/LGOS-Tool1.png" title="LGOS-Tool1">
+
 ### 下载链接
 
 <p style="color: red;">下载链接将在未来的几周内推出，敬请期待！</p>
